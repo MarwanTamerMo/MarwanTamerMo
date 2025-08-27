@@ -71,7 +71,7 @@
 
 ###
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/marwantamermo/marwantamermo/main/assets/coding.gif"  />
+<img align="right" height="180" src="https://www.thoughtco.com/thmb/E9VtXbQ6A6Lha7Mrs7BvF0lv06k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-107636032-293dc66802a54c4685892d2bb7831ef5.jpg"  />
 
 ###
 
