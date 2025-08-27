@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
-  <img src="[(https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png)](https://drive.google.com/file/d/11MruwFS5VaQCeP6CilNBRtwDoeWeKWRL/view?usp=sharing)" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
@@ -71,7 +71,7 @@
 
 ###
 
-<img align="right" height="180" src="https://www.thoughtco.com/thmb/E9VtXbQ6A6Lha7Mrs7BvF0lv06k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-107636032-293dc66802a54c4685892d2bb7831ef5.jpg"  />
+<img align="right" height="180" src="https://i.pinimg.com/originals/e4/26/15/e426151c1de64147575f448c26382893.gif" />
 
 ###
 
