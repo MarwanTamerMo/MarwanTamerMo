@@ -71,7 +71,7 @@
 
 ###
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/i-am-bhawna/i-am-bhawna/main/developer.gif" />
+<img align="right" height="180" src="assets/Haravrd%20Mark%201.webp" />
 
 ###
 
